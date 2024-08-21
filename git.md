@@ -3,4 +3,9 @@ layout: /layouts/base_layout.njk
 title: GIT
 order: 5
 ---
-<h1>{{ title }}</h1>
+# {{title}}
+
+## What is GIT
+## Getting started with GIT
+## Branches and Pull Requests
+
